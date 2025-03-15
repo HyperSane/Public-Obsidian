@@ -1,3 +1,7 @@
+# Delete these lines that have hash-tags for script to work.
+# This script makes a selected link convert from universal-MarkDown to Wiki links ( "[[The note]]" ).
+# This allows having embedded links into notes, previewing the note without leaving (using a drop-down method).
+
 <%*
 const originalLink = tp.file.selection(); // Get the selected text
 if (!originalLink) {
