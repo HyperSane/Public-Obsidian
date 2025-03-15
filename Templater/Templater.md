@@ -17,6 +17,9 @@ Put your scripts in /Templates/Templater/Scripts
 
 ## Right-Click Command
 
+![image](https://github.com/user-attachments/assets/11fe037e-a242-4f9d-b4d9-8ec872117db5)
+
+
 1. Right-Click inside an obsidian note (in editor mode).
 2. Click add custom command
 3. Type and select "Templater: Open Insert template modal"
