@@ -1,0 +1,5 @@
+.metadata-property[data-property-key="Canvas-Link"] .metadata-property-value::before {
+  content: "🧩";
+  color: var(--color-cyan);
+  margin-right: 4px;
+}
