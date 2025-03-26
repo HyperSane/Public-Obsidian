@@ -2,7 +2,7 @@
 # This script makes a selected link convert from universal-MarkDown to Wiki links ( "[[The note]]" ).
 # This allows having embedded links into notes, previewing the note without leaving (using a drop-down method).
 
-# Click Code button top-right of window, select copy, then paste.
+# Click Code button top-left of window, select copy, then paste.
 
 <%*
 const originalLink = tp.file.selection(); // Get the selected text
